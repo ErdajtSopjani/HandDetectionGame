@@ -19,4 +19,3 @@ simple:)
 
 If you have any feedback positive or negative you can reach out.
 
-![image](https://user-images.githubusercontent.com/120386306/230796805-843f1933-4ea0-455b-a201-cd95a85a4c7f.png)
