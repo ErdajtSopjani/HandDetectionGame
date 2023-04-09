@@ -18,7 +18,7 @@ So in this case:
 #pip install numpy" or "python -m pip install numpy"
 
 # How to run:
-If you meet all the requirements you can simply download the .exe file and run it.
+If you meet all the requirements you can simply download the python script and run it.
 simple:)
 
 # FeedBack
