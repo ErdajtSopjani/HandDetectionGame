@@ -9,6 +9,10 @@ You need python 3.9 or newer in order to run this game
 You also need these libraries: cv2, mediapipe, numpy
 You can get the librares by running "pip install (library)" or "python -m pip install (library)" in your terminal
 
+#How to run:
+If you meet all the requirements you can simply download the .exe file and run it.
+simple:)
+
 #FeedBack
 
 If you have any feedback positive or negative you can reach out.
